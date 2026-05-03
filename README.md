@@ -1,7 +1,7 @@
 # YTPlusM
 A fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options but with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
 
-<strong>This is the repo for Pre-built IPAs and Debs. Updates will be published in Releases tab.
+<strong>This is the main repo, for pre-built IPAs and Debs. Updates will be published in Releases tab.
 
 
 Visit <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2.1">YTPlusM-DIY-5.2.1 repo</a> to build yourself YTPlusM but with YTPlus 5.2.1 (without DRM Patreon subscription) and <a href="https://github.com/Mark02-2012/YTPlusM-DIY-5.2b4">YTPlusM-DIY-5.2b4 repo</a> to build YTPlusM with YTPlus 5.2b4 or previous versions.</strong>
