@@ -1,6 +1,6 @@
 # YTPlusM
 <p align="center">
-<td><img src="Resources/IMG_5913.png"
+<td><img src="Resources/IMG_5913.png" width="950"
            
 <p align="center">       
 The best fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options but with the latest version freed and with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
@@ -141,8 +141,8 @@ Added VolumeBoostYT and YouGetCaption
 </ul>  
 
 <ul>
-   <li><strong>Latest confirmed:</strong> <em>21.21.3</em></li>
-   <li><strong>Date tested:</strong> <em>May 22, 2026</em></li>
+   <li><strong>Latest confirmed:</strong> <em>21.22.4</em></li>
+   <li><strong>Date tested:</strong> <em>May 30, 2026</em></li>
    <li><strong>YouTube Plus:</strong> <em>5.2.1</em></li>
 </ul>
 <strong>⚠️YTPlus 5.2b4 doesn't work with the latest versions of yt (from 21.14.4 and above), so use YTPlus 5.2.1 to build YTPlusM with newest yt versions⚠️</strong>
