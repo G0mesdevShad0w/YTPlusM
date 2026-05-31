@@ -14,7 +14,7 @@
 Visit <a href="https://github.com/Mark02-2012/YTPlusM-DIY">YTPlusM-DIY repo</a> to build yourself YTPlusM IPAs (with YTPlus from 5.1 to 5.2.1, no 5.2) without DRM Patreon subscription.
 **Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and YTPlusM app using GitHub Actions](#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions) and [What Means YTPlusM and YTPlusM DIY](#what-means-ytplusm-and-ytplusm-diy)**
 
-### MUST READ
+## MUST READ
 **Soon you will not need anymore [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY), but simply fork this repository (main branch)**
 
 ## Download table
