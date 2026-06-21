@@ -14,10 +14,7 @@ Don't know how to build YTPlus or YTPlusM? Read [How to build YouTube Plus and Y
 # MUST READ
 **From June 1 2026 you do not need anymore [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY), but simply fork this repository (main branch). [YTPlusM DIY](https://github.com/Mark02-2012/YTPlusM-DIY) will not be updated anymore**
 
-### Starting from now, I'll slowly delete download table and releases' files due to legal reason; I will do a better guide to how build yourself the IPA with Actions and where find the decrypted IPA.        I CREATED A NEW TELEGRAM CHANNEL FOR RELEASES! 👉[LINK TO JOIN](https://t.me/Mark02workshop_official)👈
-
-## Download table
-Deleted 
+### Starting from now, I'll slowly remove download table and releases' files due to legal reason; I CREATED A NEW TELEGRAM CHANNEL FOR RELEASES! 👉[LINK TO JOIN](https://t.me/Mark02workshop_official)👈
 
 ## Table of Contents
 - [Screenshots](#screenshots)
@@ -25,6 +22,7 @@ Deleted
 - [FAQ](#faq)
 - [Reviews](#reviews)
 - [How to build YouTube Plus and YTPlusM app using GitHub Actions](#how-to-build-youtube-plus-and-ytplusm-app-using-github-actions)
+- [How to find decrypted YouTube IPAs](#how-to-find-decrypted-youtube-ipas)
 - [What Means YTPlusM and YTPlusM DIY](#what-means-ytplusm-and-ytplusm-diy)
 - [YTPlusM versions changelog](#ytplusm-versions-changelog)
 - [Supported YouTube Version](#supported-youtube-version)
@@ -96,7 +94,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
     <li>Navigate to the <strong>Actions tab</strong> in your forked repository and select <strong>Create YouTube Plus app</strong>.</li>
     <li>Click the <strong>Run workflow</strong> button located on the right side.</li>
     <li>Mark or unmark the tweaks you want to integrate. Learn more about them in the <a href="#tweak-integration-details">Tweak Integration Details</a> section.</li>
-    <li>Prepare a decrypted .ipa file <em>(soon I will do a guide for who doesn't know where to find it :) )</em>, then upload it to a file provider (e.g., filebin.net, filemail.com, Dropbox or catbox.moe are recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
+    <li>Prepare a decrypted .ipa file <em>(if you don't know where to find it read <a href="#how-to-find-decrypted-youtube-ipas">this</a>)</em>, then upload it to a file provider (e.g., filebin.net, filemail.com, Dropbox or catbox.moe are recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
     <li><strong>NOTE:</strong> Make sure to provide a direct download link to the file, not a link to a webpage. Otherwise, the process will fail.</li>
     <li>Enter the YTLite version (starting from 5.1 to 5.2.1 crack, no 5.2; the latest is selected by default). You can also change the BundleID and Display Name if desired.</li>
     <li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
@@ -114,7 +112,7 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
     <li>Navigate to the <strong>Actions tab</strong> in your forked repository and select <strong>[BETA] Build YouTube Plus app</strong>.</li>
     <li>Click the <strong>Run workflow</strong> button located on the right side.</li>
     <li>Mark or unmark the tweaks you want to integrate. Learn more about them in the <a href="#tweak-integration-details">Tweak Integration Details</a> section.</li>
-    <li>Prepare a decrypted .ipa file <em>(soon I will do a guide for who doesn't know where to find it :) )</em>, then upload it to a file provider (e.g., filebin.net, filemail.com, Dropbox or catbox.moe are recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
+    <li>Prepare a decrypted .ipa file <em>(if you don't know where to find it read <a href="#how-to-find-decrypted-youtube-ipas">this</a>)</em>, then upload it to a file provider (e.g., filebin.net, filemail.com, Dropbox or catbox.moe are recommended). Paste the URL of the decrypted IPA file in the provided field.</li>
     <li>Upload your beta tweak file to a file provider and paste direct link to the <strong>URL to the YouTube Plus tweak file</strong> field. You can also change the BundleID and Display Name if desired.</li>
     <li><strong>NOTE:</strong> Make sure to provide a direct download link to the file, not a link to a webpage. Otherwise, the process will fail.</li>
     <li>Make sure all inputs are correct, then click <strong>Run workflow</strong> to start the process.</li>
@@ -122,7 +120,22 @@ Review by [@qbap](https://github.com/qbap) on ONE Jailbreak: https://onejailbrea
   </ol>
 </details>
 
-## How to find decrypted YouTube IPAs (coming soon)
+## How to find decrypted YouTube IPAs
+
+**If you have Telegram:**
+1. Open Telegram
+2. Search for "Eevee IPA Decrypter bot"
+3. Start the bot and send him the link for YouTube on App Store
+4. He will send you the latest YouTube decrypted IPA
+
+**If you don't have Telegram/want another version of YouTube:**
+> [!NOTE]
+> For this guide make sure to disable all adblocks you have (NextDNS, ADGuard, Brave Shields, uBlock Origin etc.)
+
+1. Open your browser and search "Decrypt Day"
+2. Click the first link (It should be like decrypt . day the link, without spaces of course)
+3. On the search bar, type "YouTube", click on "Search" and YouTube
+4. Scroll down and click on "Download for free" to download the latest available version immediately, click on "Previous versions" instead to download older versions
 
 ## What Means YTPlusM and YTPlusM DIY
 <li><strong>YTPlusM:</strong></li>
