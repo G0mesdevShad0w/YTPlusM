@@ -58,19 +58,25 @@ on:
        default: false
 
       enable_ytlcm:
-       description: "NEW! Integrate YTLowContrastMode (YTPlusM)"
+       description: "Integrate YTLowContrastMode (YTPlusM)"
        type: boolean
        required: true
        default: false
 
       enable_VolumeBoostYT:
-       description: "NEW! Integrate VolumeBoostYT (YTPlusM)"
+       description: "Integrate VolumeBoostYT (YTPlusM)"
        type: boolean
        required: true
        default: false
 
       enable_YouGetCaption:
-       description: "NEW! Integrate YouGetCaption (YTPlusM)"
+       description: "Integrate YouGetCaption (YTPlusM)"
+       type: boolean
+       required: true
+       default: false
+
+      enable_ytpf:
+       description: "NEW! Integrate YTPlaybackFix, my new tweak! (YTPlusM)"
        type: boolean
        required: true
        default: false
@@ -125,6 +131,7 @@ jobs:
       enable_ytlcm: ${{ inputs.enable_ytlcm }}
       enable_VolumeBoostYT: ${{ inputs.enable_VolumeBoostYT }}
       enable_YouGetCaption: ${{ inputs.enable_YouGetCaption }}
+      enable_ytpf: ${{ inputs.enable_ytpf }}
       tweak_version: ${{ inputs.tweak_version }}
 
 
@@ -175,7 +182,8 @@ jobs:
              [ "${{ inputs.enable_youspeed }}" = "false" ] && \
              [ "${{ inputs.enable_ytlcm }}" = "false" ] && \
              [ "${{ inputs.enable_VolumeBoostYT }}" = "false" ] && \
-             [ "${{ inputs.enable_YouGetCaption }}" = "false" ]; then
+             [ "${{ inputs.enable_YouGetCaption }}" = "false" ] && \
+             [ "${{ inputs.enable_ytpf }}" = "false" ]; then
             
             echo "RELEASE_PREFIX=YTPlus" >> $GITHUB_ENV
           else
